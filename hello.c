@@ -1,7 +1,5 @@
 #include <epoxy/gl.h>
-#include <epoxy/glx.h>
 #include <epoxy/egl.h>
-//#include <epoxy/wgl.h>
 
 #include <stdlib.h>
 #include <unistd.h>
